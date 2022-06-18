@@ -1,0 +1,15 @@
+C:\Users\Burak Torun\OneDrive\Masaüstü\finalödevi\finalödevi\bin\Debug\finalödevi.exe.config
+C:\Users\Burak Torun\OneDrive\Masaüstü\finalödevi\finalödevi\bin\Debug\finalödevi.exe
+C:\Users\Burak Torun\OneDrive\Masaüstü\finalödevi\finalödevi\bin\Debug\finalödevi.pdb
+C:\Users\Burak Torun\OneDrive\Masaüstü\finalödevi\finalödevi\obj\Debug\finalödevi.csproj.AssemblyReference.cache
+C:\Users\Burak Torun\OneDrive\Masaüstü\finalödevi\finalödevi\obj\Debug\MainWindow.g.cs
+C:\Users\Burak Torun\OneDrive\Masaüstü\finalödevi\finalödevi\obj\Debug\App.g.cs
+C:\Users\Burak Torun\OneDrive\Masaüstü\finalödevi\finalödevi\obj\Debug\finalödevi_MarkupCompile.cache
+C:\Users\Burak Torun\OneDrive\Masaüstü\finalödevi\finalödevi\obj\Debug\finalödevi_MarkupCompile.lref
+C:\Users\Burak Torun\OneDrive\Masaüstü\finalödevi\finalödevi\obj\Debug\MainWindow.baml
+C:\Users\Burak Torun\OneDrive\Masaüstü\finalödevi\finalödevi\obj\Debug\finalödevi.g.resources
+C:\Users\Burak Torun\OneDrive\Masaüstü\finalödevi\finalödevi\obj\Debug\finalödevi.Properties.Resources.resources
+C:\Users\Burak Torun\OneDrive\Masaüstü\finalödevi\finalödevi\obj\Debug\finalödevi.csproj.GenerateResource.cache
+C:\Users\Burak Torun\OneDrive\Masaüstü\finalödevi\finalödevi\obj\Debug\finalödevi.csproj.CoreCompileInputs.cache
+C:\Users\Burak Torun\OneDrive\Masaüstü\finalödevi\finalödevi\obj\Debug\finalödevi.exe
+C:\Users\Burak Torun\OneDrive\Masaüstü\finalödevi\finalödevi\obj\Debug\finalödevi.pdb
